@@ -61,6 +61,32 @@ function Nav() {
           </>
         )}
       </div>
+
+      {/* Mobile navigation */}
+      <div className='sm:hidden flex relative'>
+        {isUserLoggedIn ? (
+          <div className='flex'>
+            <Image
+              src="/assets/images/logo.svg"
+              width={37}
+              height={37}
+              alt='profile'
+              className='rounded-full'
+              />
+          </div>
+        ) : (
+          <>
+            {provider && Object.values(provider).map((provide) => (
+              <button
+                type="button"
+                key={provide.name}
+                onClick={() => signIn(provide.id)}
+                className='black_btn'
+              >Sign In</button>
+            ))}
+          </>
+        )}
+      </div>
     </nav>
   )
 }
