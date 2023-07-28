@@ -6,6 +6,9 @@ const Home = () => {
         <br className="max-md:hidden" />
         <span className="orange_gradient text-center">AI-Powered Prompt</span>
       </h1>
+      <p className="desc text-center">
+        Preptompia is an open-source AI prompting tool for modern world to discover, create and Share creative prompts
+      </p>
     </section>
   )
 }
