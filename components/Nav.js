@@ -50,7 +50,14 @@ function Nav() {
           </div>
         ) : (
           <>
-          
+            {provider && Object.values(provider).map((provide) => (
+              <button
+                type="button"
+                key={provide.name}
+                onClick={() => signIn(provide.id)}
+                className='black_btn'
+              >Sign In</button>
+            ))}
           </>
         )}
       </div>
