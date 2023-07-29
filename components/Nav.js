@@ -57,6 +57,13 @@ function Nav() {
                   >
                   My profile
                   </Link>
+                  <Link
+                   href="/create"
+                   className='dropdown_link'
+                   onClick={() => setToggleDropDown(false)}
+                  >
+                  Create Prompt
+                  </Link>
                 </div>
               )}
             </Link>
