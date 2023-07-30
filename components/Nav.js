@@ -64,6 +64,14 @@ function Nav() {
                   >
                   Create Prompt
                   </Link>
+                  <button
+                    type='button'
+                    onClick={() => {
+                      setToggleDropDown(false);
+                      signOut;
+                    className="mt-5 w-full back_btn"
+                    }}
+                  >Sign Out</button>
                 </div>
               )}
             </Link>
