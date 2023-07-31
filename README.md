@@ -36,3 +36,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ## The project
 The project itself is built based on a full stack solution. We use next Js 13 and other features like authenticators, ...
 To make everything work fine.
+
+
+Now that you have understood the job, we can proceed with the validation of the entire project.
