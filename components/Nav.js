@@ -46,34 +46,7 @@ function Nav() {
                 height={37}
                 alt='profile'
                 className='rounded-full'
-                onClick={() => setToggleDropDown((prev) => !prev)}
               />
-              {toggleDropDown && (
-                <div className='dropdown'>
-                  <Link
-                   href="/profile"
-                   className='dropdown_link'
-                   onClick={() => setToggleDropDown(false)}
-                  >
-                  My profile
-                  </Link>
-                  <Link
-                   href="/create"
-                   className='dropdown_link'
-                   onClick={() => setToggleDropDown(false)}
-                  >
-                  Create Prompt
-                  </Link>
-                  <button
-                    type='button'
-                    onClick={() => {
-                      setToggleDropDown(false);
-                      signOut;
-                    }}
-                    className="mt-5 w-full back_btn"
-                  >Sign Out</button>
-                </div>
-              )}
             </Link>
           </div>
         ) : (
@@ -100,7 +73,11 @@ function Nav() {
               height={37}
               alt='profile'
               className='rounded-full'
+              onClick={() => setToggleDropDown((prev) => !prev)}
               />
+              {toggleDropDown && (
+                <div></div>
+              )}
           </div>
         ) : (
           <>
