@@ -39,3 +39,4 @@ To make everything work fine.
 
 
 Now that you have understood the job, we can proceed with the validation of the entire project.
+I was able to solve the click issue.
