@@ -42,4 +42,4 @@ Now that you have understood the job, we can proceed with the validation of the 
 I was able to solve the click issue. Now it is time for me to start with the authentication management.
 Today i did not do anything because i took a flight to Adis ababa. I might think about moving on with this project after gettinng to Ghana.
 
-Mean while. Stay tune...
+This time i will continue with the code tommorow.
