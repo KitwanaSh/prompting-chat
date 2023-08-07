@@ -40,4 +40,6 @@ To make everything work fine.
 
 Now that you have understood the job, we can proceed with the validation of the entire project.
 I was able to solve the click issue. Now it is time for me to start with the authentication management.
-Today i did not do anything because i took a flight to Adis ababa. I might think about moving on with this project after gettinng to Ghana.
+Today i did not do anything because i took a flight to Adis ababa. I might think about moving on with this project after gettinng to Ghana. 
+
+We shall have to work on this in a later time. For now, i am thinking about working in a different project.
