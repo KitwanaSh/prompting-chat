@@ -43,3 +43,4 @@ I was able to solve the click issue. Now it is time for me to start with the aut
 Today i did not do anything because i took a flight to Adis ababa. I might think about moving on with this project after gettinng to Ghana. 
 
 We shall have to work on this in a later time. For now, i am thinking about working in a different project.
+We shall see this next time.
