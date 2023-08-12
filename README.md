@@ -44,3 +44,4 @@ Today i did not do anything because i took a flight to Adis ababa. I might think
 
 We shall have to work on this in a later time. For now, i am thinking about working in a different project.
 We shall see this next time. Once again, i had a blank day. I had a little headatche or something, i don't know. But i will see how i will develop.
+A week has gone. I spent too much time thinking about when and how i should continue up with this project.
