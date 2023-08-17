@@ -46,4 +46,4 @@ We shall have to work on this in a later time. For now, i am thinking about work
 We shall see this next time. Once again, i had a blank day. I had a little headatche or something, i don't know. But i will see how i will develop.
 A week has gone.
 
-Next step starts tomorrow. I may come back on my next13 project.
+Next step starts tomorrow.
