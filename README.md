@@ -35,4 +35,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## The project
 The project itself is built based on a full stack solution. We use next Js 13 and other features like authenticators, ...
-To make everything work fine.
+To make everything work fine. Next, we are going to continue with next 13.
