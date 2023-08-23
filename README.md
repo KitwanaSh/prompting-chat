@@ -35,5 +35,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## The project
 The project itself is built based on a full stack solution. We use next Js 13 and other features like authenticators, ...
-To make everything work fine. Next, we are going to continue with next 13. Then, later one we will start working with prisma, mongodb and more 
-features of of the backend.
+To make everything work fine. Next, we are going to continue with next 13.
