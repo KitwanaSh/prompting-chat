@@ -97,7 +97,7 @@ function Nav() {
                       setToggleDropDown(false);
                       signOut;
                     }}
-                    className="mt-5 w-full back_btn"
+                    className="mt-5 w-full black_btn"
                   >Sign Out</button>
                 </div>
               )}
