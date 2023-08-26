@@ -36,3 +36,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ## Project
 This is the place where i would like to continue using different accessibilities and much more.
 I would like then to see how i can start working with this project that i left doing one month ago.
+
+### Next step
+I am starting with the authenticator.
+I will do the google authenticator in this case.
