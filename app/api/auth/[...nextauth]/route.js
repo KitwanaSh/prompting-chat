@@ -23,11 +23,11 @@ const handler = NextAuth({
         },
         async siginIn({ profile }) {
             try {
-                await connectToDb();
+                await connectToDb()
     
                 const userExists = await User.findOne({
                     email: profile.email
-                });
+                })
     
                 if(!userExists) {
                     await User.create({
