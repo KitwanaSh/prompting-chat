@@ -1,7 +1,9 @@
 import React from 'react'
 
-export default function CreatePrompt() {
+const CreatePrompt = () => {
   return (
     <div>CreatePrompt</div>
   )
 }
+
+export default CreatePrompt
